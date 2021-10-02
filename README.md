@@ -43,6 +43,26 @@ steps 5: Open package.json add bellow scripts
 }
 ```
 
-steps 6: Run $ npm start
+steps 6: Run 
 
-steps 7: Deploy in github.
+```$ npm start```
+
+Deploy in github...
+
+Step 1: Create a repository in github
+
+Step 2: Create git init in your local machine 
+
+``` $ git init ```
+
+Step 3: Add all files and comiit to git
+
+``` 
+$ git add .
+
+$ git commit -m "initial commit"
+```
+Step 4: Push from local to remote
+```
+$ git push
+```
