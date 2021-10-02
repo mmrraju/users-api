@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Raju",
+      "phone_number": "+8801734206885"
+    },
+    {
+      "id": 2,
+      "name": "Anamulgp",
+      "phone_number": "+8801718234953"
+    }
+  ]
+}
